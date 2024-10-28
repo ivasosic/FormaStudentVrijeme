@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: FormaStudent, Configuration: Debug Any CPU ------
+1>C:\Users\ucenik\source\repos\FormaStudent\FormaStudent\Form1.cs(22,25,22,32): error CS1061: 'Button' does not contain a definition for 'Clicked' and no accessible extension method 'Clicked' accepting a first argument of type 'Button' could be found (are you missing a using directive or an assembly reference?)
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========

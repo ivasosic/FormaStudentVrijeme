@@ -1,0 +1,12 @@
+C:\Users\ucenik\source\repos\FormaStudent\FormaStudent\obj\Debug\FormaStudent.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\FormaStudent\FormaStudent\obj\Debug\FormaStudent.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\FormaStudent\FormaStudent\obj\Debug\FormaStudent.Form1.resources
+C:\Users\ucenik\source\repos\FormaStudent\FormaStudent\obj\Debug\FormaStudent.Form2.resources
+C:\Users\ucenik\source\repos\FormaStudent\FormaStudent\obj\Debug\FormaStudent.Properties.Resources.resources
+C:\Users\ucenik\source\repos\FormaStudent\FormaStudent\obj\Debug\FormaStudent.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\FormaStudent\FormaStudent\obj\Debug\FormaStudent.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\FormaStudent\FormaStudent\bin\Debug\FormaStudent.exe.config
+C:\Users\ucenik\source\repos\FormaStudent\FormaStudent\bin\Debug\FormaStudent.exe
+C:\Users\ucenik\source\repos\FormaStudent\FormaStudent\bin\Debug\FormaStudent.pdb
+C:\Users\ucenik\source\repos\FormaStudent\FormaStudent\obj\Debug\FormaStudent.exe
+C:\Users\ucenik\source\repos\FormaStudent\FormaStudent\obj\Debug\FormaStudent.pdb
